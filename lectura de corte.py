@@ -14,7 +14,7 @@ from dateutil.relativedelta import relativedelta
 
 #se crean mediante una tupla los valores para conectar a la base de datos
 url_de_basesql = URL.create(
-    "nombre de motos de base de datos",
+    "nombre de motor de base de datos",
     username="nombre de usuario",
     password="contraseña",
     host="ip",
